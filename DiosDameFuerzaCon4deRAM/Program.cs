@@ -11,6 +11,8 @@ namespace DiosDameFuerzaCon4deRAM
             Console.Write("Papu, papu despierta, ");
             // Al compilar, el mensaje de "Console.Write" se verá en la misma línea que el siguiente mensaje "Console.WriteLine"
             Console.WriteLine("tienes que hornear unos momazos");
+            Console.WriteLine("O II A I OO III A I");
+            //AA
         }
     }
 }
